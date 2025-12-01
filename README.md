@@ -66,7 +66,7 @@ NeuroLens leverages a **Hybrid Architecture** optimized for Arm:
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/neurolens.git
+    git clone https://github.com/saketh8/neurolens.git
     cd neurolens
     ```
 
