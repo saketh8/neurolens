@@ -129,7 +129,7 @@ Camera Feed (30fps)
 #### 1. Clone and Install
 
 ```bash
-git clone https://github.com/yourusername/neurolens.git
+git clone https://github.com/saketh8/neurolens.git
 cd neurolens
 npm install
 ```
@@ -162,4 +162,4 @@ NeuroLens represents the pragmatic future of AI: **Hybrid Intelligence**. By lev
 
 ---
 
-**Project Repository**: https://github.com/yourusername/neurolens
+**Project Repository**: https://github.com/saketh8/neurolens
